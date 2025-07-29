@@ -15,5 +15,5 @@ Tool Python berbasis command-line untuk membuat layout XML Android Studio bergay
 🪟 Windows / PowerShell
 <pre> <code> powershell -Command "iwr -useb https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install_layout_generator.bat | iex" </code> </pre>
 🪟 Windows / CMD 
-<pre> <code> cmd /c "curl -sSL https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install_layout_generator.bat > temp.bat && temp.bat && del temp.bat"
- | iex" </code> </pre>
+<pre> <code> curl -sSL https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install_layout_generator.bat -o "%TEMP%\installer.bat" && call "%TEMP%\installer.bat"
+ </code> </pre>
