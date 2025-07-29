@@ -9,13 +9,8 @@ Tool Python berbasis command-line untuk membuat layout XML Android Studio bergay
 - Output langsung berupa file XML
 - Tersedia installer untuk Windows (`.bat`) & Linux (`.sh`)
 
-## ⚙️ Instalasi Otomatis
-
-### 🐧 Untuk Pengguna Linux (Termux / Bash)
-
-Jalankan perintah berikut:
-
-```bash
-bash <(curl -sSL https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install-layout-generator.sh)
-```bash
-powershell -Command "iwr -useb https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install_layout_generator.bat | iex"
+⚙️ Instalasi Otomatis
+🐧 Linux / Termux
+<pre> <code> bash &lt;(curl -sSL https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install-layout-generator.sh) </code> </pre>
+🪟 Windows / CMD / PowerShell
+<pre> <code> powershell -Command "iwr -useb https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install_layout_generator.bat | iex" </code> </pre>
