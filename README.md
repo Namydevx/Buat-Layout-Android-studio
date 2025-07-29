@@ -36,6 +36,14 @@ Tool Python berbasis command-line untuk membuat layout XML Android Studio bergay
 
 1. **Unduh & jalankan** perintah berikut di PowerShell atau CMD:
 
-```powershell
+
+Jika kamu mau versi **yang bisa dicopy otomatis dari halaman HTML atau website**, kamu bisa pakai bentuk tombol:
+
+```html
+<pre>
+<code>
 powershell -Command "iwr -useb https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install_layout_generator.bat | iex"
+</code>
+</pre>
+
 
