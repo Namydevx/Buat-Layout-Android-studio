@@ -28,7 +28,7 @@ Tool Python berbasis command-line untuk membuat layout XML Android Studio bergay
 - Output langsung berupa file XML
 - Tersedia installer untuk Windows (`.bat`) & Linux (`.sh`)
 
----
+
 
 ## ⚙️ Instalasi Otomatis
 
