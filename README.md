@@ -14,4 +14,4 @@ Tool Python berbasis command-line untuk membantu membuat file layout XML Android
 Jalankan perintah berikut untuk menginstal dan langsung bisa digunakan:
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/Namydevx/Buat-Layout-Android-studio/main/install-layout-generator.sh)
